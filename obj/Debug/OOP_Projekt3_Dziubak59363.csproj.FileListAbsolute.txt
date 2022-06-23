@@ -1,0 +1,12 @@
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\bin\Debug\OOP_Projekt3_Dziubak59363.exe.config
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\bin\Debug\OOP_Projekt3_Dziubak59363.exe
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\bin\Debug\OOP_Projekt3_Dziubak59363.pdb
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.Properties.Resources.resources
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.exe
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.pdb
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.kdFormPowitalny.resources
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.BryłyRegularne.resources
+C:\Users\kamil\source\repos\sem2\OOP_Projekt3_Dziubak59363\obj\Debug\OOP_Projekt3_Dziubak59363.kdBryłyZłożone.resources
